@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="21px" viewBox="0 0 22 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-link</title>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Market" transform="translate(-998.000000, -347.000000)" fill-rule="nonzero">
+            <g id="Group-5-Copy" transform="translate(100.000000, 328.000000)">
+                <g id="Group-17" transform="translate(809.000000, 19.000000)">
+                    <g id="Group-11" transform="translate(89.250000, 0.000000)">
+                        <g id="icon-link" transform="translate(0.500000, 0.220262)">
+                            <circle id="Oval" fill="#FFFFFF" cx="9.96973787" cy="9.96973787" r="9.96973787"></circle>
+                            <path d="M9.96973787,3.24202026 L8.73529427,3.95182533 L5.37143547,5.896074 L4.13699187,6.60587907 L4.13699187,13.3335967 L5.37143547,14.0434017 L8.76615536,15.9876504 L10.000599,16.6974555 L11.2350426,15.9876504 L14.5680403,14.0434017 L15.8024839,13.3335967 L15.8024839,6.60587907 L14.5680403,5.896074 L11.2041815,3.95182533 L9.96973787,3.24202026 Z M6.60587907,11.9139865 L6.60587907,8.02548921 L9.96973787,6.08124054 L13.3335967,8.02548921 L13.3335967,11.9139865 L9.96973787,13.8582352 L6.60587907,11.9139865 Z" id="Shape" fill="#2A5ADA"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

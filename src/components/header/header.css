@@ -1,0 +1,25 @@
+@media(max-width: 400px) {
+    ._nav .connectedDropdown .dropdown-menu{
+      min-width: 100%;
+    }
+  }
+  @media(max-width: 991px) {
+    ._nav .navbar {
+     padding: 18px;
+    }
+  }
+  
+  ._nav {
+    padding-top: 67px;
+    height: 67px;
+  }
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: white;
+    left: 0;
+    z-index: 999;
+    border: 1px solid #e7e7e7;
+  }

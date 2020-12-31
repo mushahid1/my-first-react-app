@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-dropdown</title>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Market" transform="translate(-337.000000, -258.000000)" fill="#ABB6CA" fill-rule="nonzero">
+            <g id="Group-5" transform="translate(100.000000, 141.000000)">
+                <g id="Group-2" transform="translate(23.000000, 77.500000)">
+                    <g id="Group-9" transform="translate(1.000000, 23.000000)">
+                        <g id="next-(9)" transform="translate(213.000000, 17.216216)">
+                            <path d="M5.03845049,5.03619163 L9.32428735,0.750354767 C9.46131694,0.608470129 9.45738267,0.382375494 9.31549803,0.245345905 C9.17708727,0.111664626 8.95766833,0.111664626 8.81927849,0.245345905 L4.78594606,4.27867833 L0.752613633,0.245345905 C0.613156519,0.105909718 0.387061884,0.105909718 0.24760477,0.245345905 C0.108168584,0.384823945 0.108168584,0.610897654 0.24760477,0.750354767 L4.53344163,5.03619163 C4.67291967,5.17562781 4.89899338,5.17562781 5.03845049,5.03619163 Z" id="icon-dropdown"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
